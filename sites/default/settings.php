@@ -702,7 +702,7 @@ $settings['container_yamls'][] = __DIR__ . '/services.yml';
  */
 
 $settings['trusted_host_patterns'] = array(
-  '^localhost$',
+  '^www\.drupal8\.development\.cyberitas\.com$'
 );
 /**
  * Load local development override configuration, if available.
